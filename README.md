@@ -1,7 +1,7 @@
 # Vulkan_Api_Enca
 vulkan_cpp_api 封装练习.  
 **注意:** 这只是一个vulkan的api封装文件库，不提供解决方法和编译过程。demo.cpp文件提供了大致的测试框架。
-再学习画三角形:grin:之后，我尝试对一些常见的vulkan对象进行封装。  
+再[学习画三角形](https://vulkan-tutorial.com/):grin:之后，我尝试对一些常见的vulkan对象进行封装。  
 这些我自己封装好的api函数将作为后续学习使用(:pensive:大概率被别人更好的封装替代)，部分应该会继续使用。。。  
 
 ## 软件框架
